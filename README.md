@@ -4,7 +4,7 @@ A simple Node.js application that generates QR codes from URLs.
 
 ## Features
 
-- Generates QR codes from URLs provided in a text file.
+- Generates QR codes from URLs provided by the user.
 - Saves the generated QR code as an image file.
 
 ## Prerequisites
